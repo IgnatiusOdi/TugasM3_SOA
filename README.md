@@ -1,2 +1,2 @@
 # TugasM3_SOA
-Nilai : 
+Nilai : 30
